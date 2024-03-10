@@ -1,1 +1,1 @@
-datast downloaded from https://www.kaggle.com/datasets/kartik2112/fraud-detection
+dataset downloaded from https://www.kaggle.com/datasets/kartik2112/fraud-detection
